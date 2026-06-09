@@ -4,3 +4,5 @@
 *.js linguist-language=JavaScript
 css/* linguist-language=CSS
 js/* linguist-language=JavaScript
+*.min.css linguist-language=CSS
+*.min.js linguist-language=JavaScript
